@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+.flex-container {
+    display: flex;
+}
+.item {
+    width: 30%;
+    height: fit-content;
+    background: rgb(230, 220, 220);
+    color: black;
+    margin: 10px;
+}
